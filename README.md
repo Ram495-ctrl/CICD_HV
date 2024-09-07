@@ -16,6 +16,7 @@ Task 1: Set Up a Simple HTML Project
 •	Create a bash script to clone the latest code and restart Nginx.
 
 <h1> Task 5: Set Up a Cron Job to Run the Python Script
+  
 •	Create a cron job to run the Python script at regular intervals.
 
 <h1> Task 6: Test the Setup
