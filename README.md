@@ -1,3 +1,6 @@
+<h1> Description <h1>
+Create a complete CI-CD pipeline using bash, python, and crontabs. The list of tasks is specified below: 
+
 <h1> Task 1: Set Up a Simple HTML Project <h1>  
 
 •	Create a simple HTML project and push it to a GitHub repository. 
